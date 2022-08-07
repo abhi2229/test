@@ -27,7 +27,7 @@ TO track all the files
 git add .
 ```
 
-TO commit in git
+TO commit in git.
 ```
 git commit -m "message"
 ```
