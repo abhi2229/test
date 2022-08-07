@@ -42,7 +42,7 @@ git remote set-url origin <github url>
 ```
 To setup ci/cd pipeline we need 3 information
 ```
-HEROKU_EMAIL=soumallatarafder@gmail.com
+HEROKU_EMAIL=maity2229@gmail.com
 HEROKU_API_KEY=<>
 HEROKU_APP_NAME=ci-cd-based-thyroid-detection
 ```
